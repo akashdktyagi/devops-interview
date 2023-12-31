@@ -103,8 +103,25 @@ The approach we followed is below:
 
 ### Tell me about the challenge which you face on day to day basis or Tell me a recent challenge which you have faced and solved?
 
+### What tools are using and what version?
+
+### Give me the list of all the tool chain you have used?
 
 ### How do you keep yourself updated?
 
 ### Tell me about your day to day activities.
 
+### How does it look like to work in an agile env?
+
+### Tell us about ur Infrastructure.
+
+### What is an API gateway?
+
+### how many people are using
+
+### what is Ansible?
+
+### keyword and jargons enbing used like kpis, dora metric?
+
+
+### can we discuss about the tickets that we might get as a devops engineer on day to day basis for different issues.
